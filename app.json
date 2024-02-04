@@ -1,7 +1,7 @@
 {
-    "name": "ᴡɪʟᴅᴀɴ ᴍᴜsɪᴄ ʙσᴛ",
+    "name": "ᴅᴀɴғɪʀ ᴍᴜsɪᴄ ʙσᴛ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph//file/184d77a1d89187d6c9444.jpg",
+    "logo": "https://telegra.ph/file/d6ba4afce002837a83bbd.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -25,7 +25,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6647010165:AAEkpnjD2-X54hXZmI7SwO0RFXSi89Uw6cU",
+        "value": "6809357500:AAFOK-8KuXezLVVILF93oBHi5ZykNcBoMm0",
         "required": true
       },
       "MONGO_DB_URI": {

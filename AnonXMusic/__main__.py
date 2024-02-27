@@ -21,7 +21,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER(__name__).error("Assistant danfir client variables not defined, exiting...")
+        LOGGER(__name__).error("Assistant great client variables not defined, exiting...")
         exit()
     await sudo()
     try:

@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴅᴀɴғɪʀ ᴍᴜsɪᴄ ʙσᴛ 」──
+    ──「 ɢʀᴇᴀᴛ ᴍᴜsɪᴄ ʙσᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d6ba4afce002837a83bbd.jpg">
+  <img src="https://telegra.ph//file/28324974cb2c8932d50aa.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d6ba4afce002837a83bbd.jpg">
+  <img src="https://telegra.ph//file/28324974cb2c8932d50aa.jpg">
 </p>
 
 <h3 align="center">
